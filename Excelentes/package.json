@@ -1,0 +1,21 @@
+{
+  "name": "optica-excelentes",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest",
+    "shadcn/ui": "latest",
+    "lucide-react": "latest",
+    "stripe": "latest",
+    "nodemailer": "latest"
+  }
+}
